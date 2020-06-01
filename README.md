@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/FDehove/ipython-geogebra/master)
+
+
 ipython-geogebra
 ================
 
